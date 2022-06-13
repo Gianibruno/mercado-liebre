@@ -26,11 +26,11 @@ Verde: #39b54a; */
 }
 
 body {
-    width: 100vw;
+    margin: 0;
 }
 
 .main {
-    padding: 0 3vw;
+    padding: 0 3vw 20px;
     background-color: var(--gris-claro);
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .section-container{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .section-title {
